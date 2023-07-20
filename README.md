@@ -4,7 +4,7 @@
 [![image](https://img.shields.io/badge/Selenium-4.7.2-green)](https://www.selenium.dev/)
 
 # Introduction-To-Web-Scraping
-A repository made for a lecture in web scraping, held at the University of Bonn.
+Welcome to this repository made for a 2 hour lecture on web scraping, held at the University of Bonn.
 
 Content: 
    - A short presentation. (pdf)
