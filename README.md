@@ -1,3 +1,8 @@
+[![image](https://img.shields.io/badge/Python-3.11.0-gray)]()
+[![image](https://img.shields.io/badge/platform-win32-gray)]()
+[![image](https://img.shields.io/badge/ChromeDriver-Chromium-gray)](https://chromedriver.chromium.org/downloads)
+[![image](https://img.shields.io/badge/Selenium-4.7.2-green)](https://www.selenium.dev/)
+
 # Introduction-To-Web-Scraping
 A repository made for a lecture in web scraping, held at the University of Bonn.
 
