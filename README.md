@@ -9,5 +9,4 @@ Welcome to this repository made for a 2 hour lecture on web scraping, held at th
 Content: 
    - A short presentation. (pdf)
    - A Jupyter Notebook, which can be used to learn how to web scrape with selenium. It also contains a web scraper which should work for Twitter.
-
 Feel free to resuse the code. If you do so, please leave a star.
